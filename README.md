@@ -1,8 +1,8 @@
-# restful-booker-platform
-A platform of web services that forms a Bed and Breakfast booking system. The platforms primary purpose is for  training others on how to explore and test web service platforms as well as strategise and implement automation in testing strategies.
+# coach-booker-platform
+A platform of web services that forms a Coach booking system. The platforms primary purpose is for  training others on how to explore and test web service platforms as well as strategise and implement automation in testing strategies.
 
 ## Requirements
-RBP is currently known to work with the following requirements:
+CBP is currently known to work with the following requirements:
 
 - JDK 15.0.2 or higher (Tested with JDK 18)
 - Maven 3.6.3
